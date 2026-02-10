@@ -36,4 +36,8 @@ Goal: Prove the lift.
 The interactive dashboard visualizes the 15-16 Baseline vs. the 16-17 Treatment. Points of interest are annotated with the percentage lift, showcasing an average surge of X% following high-scoring games.  Because restaurant revenue is very dependent on the day of the week, we normalized each week so days of the week aligned.
 
 
-**RESULT** Overall we found very positive effects on revenue.  For the DAY AFTER a 5 goal game, there was a 36% lift in revenue and a 35% lift in covers.  For the WEEKEND FOLLOWING a 5 goal game, +23.67% in revenue, +14.77% in covers.  We felt confident that causality could be applied to the Five Goal Free Ball because non-game days had an average of +3.5% growth in revenue and even a -3.5% drop in covers.  A t-test confirmed that these results had a less than 5% chance of being random.  
+**RESULT** Overall we found very positive effects on revenue.  
+   * For the DAY AFTER a 5 goal game, there was a 36% lift in revenue and a 35% lift in covers.
+   * For the WEEKEND FOLLOWING a 5 goal game, +23.67% in revenue, +14.77% in covers.
+   * We felt confident that causality could be applied to the Five Goal Free Ball because non-game days had an average of +3.5% growth in revenue and even a -3.5% drop in covers.
+   * A t-test confirmed that these results had a less than 5% chance of being random.  
