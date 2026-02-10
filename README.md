@@ -24,8 +24,8 @@ I queried a historical NHL dataset to identify games where the Pittsburgh Pengui
 
 Goal: Compare the 2015-16 season (no promotion) vs. 2016-17 (active promotion).  These datasets are synthetic to mask proprietary business information and financials.  They mimick the cadence of business transactions for the restaurant as realworld as possible.
 
-**Phase 2A** Create synthetic yet realistic datasets for each year to mask financials
-**Phase 2B** Run Analysis of Baseline vs Treatment focusing on: Normal Days (no games either season), Day After 5 Goal Games, and Weekends After 5 Goal Games (this is when most business transactions occurred).
+    **Phase 2A** Create synthetic yet realistic datasets for each year to mask financials
+    **Phase 2B** Run Analysis of Baseline vs Treatment focusing on: Normal Days (no games either season), Day After 5 Goal Games, and Weekends After 5 Goal Games (this is when most business transactions occurred).
 
 To ensure a fair comparison, I aligned sales data by 'Season Week' and 'Day of Week' rather than calendar date. This ensured I was comparing a Treatment Saturday against a Baseline Saturday, eliminating weekend-skewed results.
 
