@@ -1,5 +1,4 @@
-# emporio-penguins
-Analyzing the Five Goal Free Ball Effect On Sales
+# Analyzing the Five Goal Free Ball Effect On Sales
 Quantifying NHL Performance on Restaurant Revenue
 
 **Technical Skills Used**
