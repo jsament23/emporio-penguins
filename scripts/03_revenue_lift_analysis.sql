@@ -1,7 +1,9 @@
--- 2015-16 vs 2016-17 with the 5-goal games flagged. 
--- We looked at the day after sales compared to the previous year as well as the following weekend
--- when the majority of business transactions occured.
--- We aligned the same day of the week for the best comparison
+/* 2015-16 vs 2016-17 with the 5-goal games flagged. 
+ We looked at the day after sales compared to the previous year as well as the following weekend when the majority of business transactions occured.
+We aligned the same day of the week for the best comparison
+
+*/
+
 
 WITH fivegoal_games AS (
     SELECT game_date::date 
